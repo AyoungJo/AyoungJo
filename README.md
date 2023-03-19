@@ -4,25 +4,26 @@
 </p>
 <p align="center">
 
-<h2 align="center"> 🖐️ WHO AM I 🖐️ </h2>
-<h3 align="center" >
+<h3 align="center"> 🖐️ WHO AM I 🖐️ </h3>
+<h4 align="center" >
 더 나은 코드를 위해 끊임없이 공부하는,<br>
 누구에게나 도움이 되는 코드를 작성하고 싶은,<br>
-Java를 사랑하는 신입 개발자</h3>
+Java를 좋아하는 신입 개발자</h4>
 
 <h3 align="center">📕 Stack 📕</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=ORACLE&logoColor=white">
+  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=ORACLE&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-2C2255?style=flat&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/>
 </p>
 
 <h3 align="center">✅ Follow Me ✅</h3>
