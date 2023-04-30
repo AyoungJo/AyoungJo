@@ -3,7 +3,7 @@
 <img width="550px" src="https://user-images.githubusercontent.com/102283529/226106471-cc61c579-b8c4-401c-8831-76e46e4401d7.png">
 </p>
 <p align="center"> -->
-
+<h2 align="center"> ✨ Just Do IT ✨ </h2>
 <h3 align="center"> 🖐️ WHO AM I 🖐️ </h3>
 <h4 align="center" >
 더 나은 코드를 위해 끊임없이 공부하는,<br>
