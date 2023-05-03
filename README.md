@@ -5,10 +5,10 @@
 <p align="center"> -->
 <h2 align="center"> ✨ Just Do IT ✨ </h2>
 <h3 align="center"> 🖐️ WHO AM I 🖐️ </h3>
-<h4 align="center" >
+<p align="center" >
 더 나은 코드를 위해 끊임없이 공부하는,<br>
 누구에게나 도움이 되는 코드를 작성하고 싶은,<br>
-Java를 좋아하는 신입 개발자</h4>
+Java를 좋아하는 신입 개발자</p>
 
 <h3 align="center">📕 Stack 📕</h3>
 <p align="center">
