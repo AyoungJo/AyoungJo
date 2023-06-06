@@ -36,7 +36,7 @@ Java를 좋아하는 신입 개발자</p>
 <p align="center">
   <a href="https://github.com/AyoungJo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>&nbsp
   <a href="https://velog.io/@joajoa"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@joajoa"/></a>&nbsp
-   <a href="mailto:joahae0302@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=joahae0302@gmail.com"/></a>
+   <a href="mailto:joy8dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=joy8dev@gmail.com"/></a>
 </p>
 <h3 align="center">✏️ I Used ✏️</h3>
 <p align="center">
