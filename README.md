@@ -42,7 +42,7 @@ Java를 좋아하는 신입 개발자</p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoungJo&layout=compact)](https://github.com/AyoungJo/github-readme-stats)">
 </p>
-<h3 align="center">💜 I Like 💜</h3>
+<!--<h3 align="center">💜 I Like 💜</h3>
 <p align="center">
 Purple, Clothes, Shoes <br>
 Animal, Sea, Trip<br>
@@ -51,7 +51,7 @@ Spring, Sunset, Sunflower, and ...
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAyoungJo%2FAyoungJo&count_bg=%23D6B6EC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
-<!--
+
 **AyoungJo/AyoungJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
