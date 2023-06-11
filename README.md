@@ -1,16 +1,12 @@
-
-<!-- <p align="center">
-<img width="550px" src="https://user-images.githubusercontent.com/102283529/226106471-cc61c579-b8c4-401c-8831-76e46e4401d7.png">
-</p>
-<p align="center"> -->
-<h3 align="center"> ✨ Just Do IT ✨ </h3>
-<p align="center" >
+<h3 align=""> ✨ Just Do IT ✨ </h3>
+<div align="">
 더 나은 코드를 위해 끊임없이 공부하고<br>
 누구에게나 도움이 되는 코드를 작성하고 싶은<br>
-Java를 좋아하는 신입 개발자</p>
+Java를 좋아하는 신입 개발자
+</div>
 
-<h3 align="center">📕 Stack 📕</h3>
-<p align="center">
+<h3 align="">📕 Stack 📕</h3>
+<div align="">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
@@ -29,28 +25,31 @@ Java를 좋아하는 신입 개발자</p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>&nbsp<br>
+</div>
 
-</p>
-
-<h3 align="center">✅ Follow Me ✅</h3>
-<p align="center">
+<h3 align="">✅ Follow Me ✅</h3>
+<div align="">
   <a href="https://github.com/AyoungJo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>&nbsp
   <a href="https://velog.io/@joajoa"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@joajoa"/></a>&nbsp
    <a href="mailto:joy8dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=joy8dev@gmail.com"/></a>
-</p>
-<h3 align="center">✏️ I Used ✏️</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoungJo&layout=compact)](https://github.com/AyoungJo/github-readme-stats)">
-</p>
+</div>
+-<h3 align="">✏️ Git Stats ✏️</h3>
+<hr>
+<div align="">
+<img style="width:30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoungJo&&langs_count=5&layout=compact&theme=buefy"><br>
+<img style="width:38%" src="https://github-readme-stats.vercel.app/api?username=AyoungJo&theme=buefy&show_icons=true">
+</div>
+  
+  
 <!--<h3 align="center">💜 I Like 💜</h3>
-<p align="center">
+<div align="center">
 Purple, Clothes, Shoes <br>
 Animal, Sea, Trip<br>
 Spring, Sunset, Sunflower, and ...
-</p>
-<p align="center">
+</div>
+<div align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAyoungJo%2FAyoungJo&count_bg=%23D6B6EC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
+</div>
 
 **AyoungJo/AyoungJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
