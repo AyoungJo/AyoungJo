@@ -7,7 +7,7 @@
 <h3 align="center">📕 Stack 📕</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/></a>&nbsp
   <br>
