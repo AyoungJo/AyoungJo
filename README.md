@@ -1,8 +1,7 @@
 <h3 align=""> ✨ Just Do IT ✨ </h3>
 <div align="">
-더 나은 코드를 위해 끊임없이 공부하고<br>
-누구에게나 도움이 되는 코드를 작성하고 싶은<br>
-Java를 좋아하는 신입 개발자
+  <strong>더 나은 코드</strong>를 위해 끊임없이 공부하고<br>
+  <strong>누구에게나 도움이 되는 코드</strong>를 작성하고 싶은 개발자
 </div>
 
 <h3 align="">📕 Stack 📕</h3>
