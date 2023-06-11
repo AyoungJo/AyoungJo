@@ -34,7 +34,7 @@
 </div>
 <h3 align="center">✏️ Git Stats ✏️</h3>
 <div align="center">
-<img style="width:30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoungJo&&langs_count=5&layout=compact&theme=buefy"><br>
+<img style="width:33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoungJo&&langs_count=5&layout=compact&theme=buefy"><br>
 <img style="width:38%" src="https://github-readme-stats.vercel.app/api?username=AyoungJo&theme=buefy&show_icons=true">
 </div>
   
