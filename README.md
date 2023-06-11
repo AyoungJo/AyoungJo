@@ -1,11 +1,11 @@
-<h3 align=""> ✨ Just Do IT ✨ </h3>
-<div align="">
+<h3 align="center"> ✨ Just Do IT ✨ </h3>
+<div align="center">
   <strong>더 나은 코드</strong>를 위해 끊임없이 공부하고<br>
   <strong>누구에게나 도움이 되는 코드</strong>를 작성하고 싶은 개발자
 </div>
 
-<h3 align="">📕 Stack 📕</h3>
-<div align="">
+<h3 align="center">📕 Stack 📕</h3>
+<div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=white"/></a>&nbsp
@@ -26,15 +26,15 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>&nbsp<br>
 </div>
 
-<h3 align="">✅ Follow Me ✅</h3>
-<div align="">
+<h3 align="center">✅ Follow Me ✅</h3>
+<div align="center">
   <a href="https://github.com/AyoungJo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>&nbsp
   <a href="https://velog.io/@joajoa"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@joajoa"/></a>&nbsp
    <a href="mailto:joy8dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=joy8dev@gmail.com"/></a>
 </div>
--<h3 align="">✏️ Git Stats ✏️</h3>
+<h3 align="center">✏️ Git Stats ✏️</h3>
 <hr>
-<div align="">
+<div align="center">
 <img style="width:30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoungJo&&langs_count=5&layout=compact&theme=buefy"><br>
 <img style="width:38%" src="https://github-readme-stats.vercel.app/api?username=AyoungJo&theme=buefy&show_icons=true">
 </div>
