@@ -1,8 +1,4 @@
 <h3 align="center"> ✨ Just Do IT ✨ </h3>
-<div align="center">
-  <strong>더 나은 코드</strong>를 위해 끊임없이 공부하고<br>
-  <strong>누구에게나 도움이 되는 코드</strong>를 작성하고 싶은 개발자 
-</div>
 
 <h3 align="center">📕 Stack 📕</h3>
 <div align="center">
