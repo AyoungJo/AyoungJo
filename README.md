@@ -33,7 +33,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyoungJo&&langs_count=5&layout=compact&theme=buefy"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=AyoungJo&theme=buefy&show_icons=true">
 </div>
-  
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAyoungJo%2FAyoungJo&count_bg=%23D6B6EC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>  
   
 <!--<h3 align="center">💜 I Like 💜</h3>
 <div align="center">
