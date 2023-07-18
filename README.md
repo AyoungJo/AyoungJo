@@ -1,6 +1,6 @@
 <h3 align="center"> ✨ Just Do IT ✨ </h3>
 
-<h3 align="center">📕 Stack 📕</h3>
+<h3 align="center">⚒️ Tech Stack ⚒️</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>&nbsp
